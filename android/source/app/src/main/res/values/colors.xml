@@ -1,0 +1,11 @@
+<resources>
+    <color name="bg">#F6F8F7</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#17211D</color>
+    <color name="text_secondary">#60706A</color>
+    <color name="accent">#1F8A70</color>
+    <color name="accent_dark">#176D59</color>
+    <color name="incoming">#FFFFFF</color>
+    <color name="outgoing">#DDF4EA</color>
+    <color name="line">#D6DFDA</color>
+</resources>
