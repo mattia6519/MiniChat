@@ -1,0 +1,23 @@
+# Android / Gradle caches
+android/source/.gradle/
+android/source/build/
+android/source/app/build/
+android/source/local.properties
+
+# Server runtime state: never publish generated user data or storage keys
+server/source/minichat_store_key
+server/source/users.tsv
+server/source/pending_messages.tsv
+server/source/chat_server
+server/source/chat_server.exe
+server/build/**/minichat_store_key
+server/build/**/users.tsv
+server/build/**/pending_messages.tsv
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.idea/
+.vscode/
