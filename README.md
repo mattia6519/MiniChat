@@ -224,3 +224,6 @@ associates users with ids and routes messages to the correct recipient.
 The project is intentionally compact so it can be expanded step by step. Good
 next hardening steps would be password hashing on the server, native server-side
 TLS, rate limiting, account recovery rules, and a stronger key agreement model.
+
+## Disclaimer
+This project is provided strictly for educational, academic, and research purposes. It is a proof-of-concept demonstrating network programming, local encryption, and client-server architecture. The author does not operate any public infrastructure, communication network, or service associated with this software. Anyone choosing to compile this code and host a backend server is solely responsible for its operation and must ensure compliance with all applicable local, national, and international laws, including but not limited to telecommunications regulations and cryptography export controls. The author assumes no liability for how this software is deployed or used.
