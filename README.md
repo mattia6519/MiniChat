@@ -15,12 +15,10 @@ sources, screenshots, binaries, or documentation.
 ```text
 android/
   source/              Android Studio / Gradle project
-  build/app-debug.apk  Prebuilt debug APK from the public source tree
   screenshots/         App screenshots for the GitHub page
 
 server/
   source/              Single-file C++ backend plus build scripts
-  build/windows/       Prebuilt Windows server executable
 
 graphics/              Privacy and encryption promotional graphics
 README.md
