@@ -62,10 +62,7 @@ cd android\source
 .\gradlew.bat assembleDebug
 ```
 
-The public prebuilt APK is available at:
 
-```text
-android/build/app-debug.apk
 ```
 
 Install it with ADB:
@@ -95,12 +92,7 @@ Default port:
 5555
 ```
 
-Run the prebuilt Windows executable:
 
-```powershell
-cd server\build\windows
-.\chat_server.exe 5555
-```
 
 Build on Windows from source:
 
